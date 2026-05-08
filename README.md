@@ -6,3 +6,4 @@
 -  Fun fact: 
   * I like to do art as procrastinating activity
   * Sometimes i watch animes or read manhwa
+![Maki Cat](https://maki.vercel.app/api/cat?color=orange&eyeColor=blue)
