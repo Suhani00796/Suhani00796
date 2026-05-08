@@ -4,6 +4,5 @@
 - My main tech stack is React, Node.js, MySQL.
 - I'Ve got bunch of pinned project, but my favorite is [MoodStream](https://github.com/Suhani00796/MoodStream) [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)
 -  Fun fact: 
-  * I like to do art as procrastinating activity
-  * Sometimes i watch animes or read manhwa
-![Maki Cat](https://maki.vercel.app/api/cat?color=orange&eyeColor=blue)
+  -> I like to do art as procrastinating activity
+  -> Sometimes i watch animes or read manhwa
