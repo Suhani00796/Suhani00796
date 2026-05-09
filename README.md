@@ -1,14 +1,6 @@
 ## Hi there 👋
 - I’m Sandali, a software engineering student in India
-- I try to design and create new things
-- My main tech stack is React, Node.js, MySQL.
-- I'Ve got bunch of pinned project, but my favorite is [MoodStream](https://github.com/Suhani00796/MoodStream) [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)
--  Fun fact: 
-  -> I like to do art as procrastinating activity
-  -> Sometimes i watch animes or read manhwa
-
-  # 💫 About Me:
-🔭I'm currently working on https://github.com/Suhani00796/MoodStream<br>👯I'm looking to collaborate on https://github.com/Suhani00796/AgriDirect-Pulse<br>🤝I'm looking for help with connecting many people<br>🌱I'm currently learning java 25<br>💭Ask me about question related to c programming<br>⚡Fun fact : I like to watch anime, sometimes i paint to divert my mind
+🔭I'm currently working on [MoodStream](https://github.com/Suhani00796/MoodStream)👯I'm looking to collaborate on [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)🤝I'm looking for help with connecting many people<br>🌱I'm currently learning java 25<br>💭Ask me about question related to c programming<br>⚡Fun fact : I like to watch anime, sometimes i paint to divert my mind
 
 
 ## 🌐 Socials:
