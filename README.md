@@ -1,7 +1,11 @@
 ## Hi there 👋
 - I’m Sandali, a software engineering student in India
-🔭I'm currently working on [MoodStream](https://github.com/Suhani00796/MoodStream)
-👯I'm looking to collaborate on [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)🤝I'm looking for help with connecting many people<br>🌱I'm currently learning java 25<br>💭Ask me about question related to c programming<br>⚡Fun fact : I like to watch anime, sometimes i paint to divert my mind
+-🔭I'm currently working on [MoodStream](https://github.com/Suhani00796/MoodStream)
+-👯I'm looking to collaborate on [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)
+-🤝I'm looking for help with connecting many people<br>
+-🌱I'm currently learning java 25<br>
+-💭Ask me about question related to c programming<br>
+-⚡Fun fact : I like to watch anime, sometimes i paint to divert my mind
 
 
 ## 🌐 Socials:
