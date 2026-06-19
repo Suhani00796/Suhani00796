@@ -1,11 +1,30 @@
-## Hi there 👋
-- I’m Sandali, a software engineering student in India
--🔭I'm currently working on [MoodStream](https://github.com/Suhani00796/MoodStream) [Website](https://github.com/Suhani00796/website)
--👯I'm looking to collaborate on [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator)
--🤝I'm looking for help with connecting many people<br>
--🌱I'm currently learning java 25<br>
--💭Ask me about question related to c programming<br>
--⚡Fun fact : I like to watch anime, sometimes i paint to divert my mind
+## Profile Overview
+
+I am Sandali, a Software Engineering student based in India, focused on building clean, functional applications and collaborating on open-source initiatives.
+
+---
+
+## Active Projects
+
+| Project | Description | Role / Status |
+| :--- | :--- | :--- |
+| [MoodStream](https://github.com/Suhani00796/MoodStream) | Core repository for streaming architecture. | Primary Developer |
+| [Music](https://github.com/Suhani00796/website) | Static media and multi-page website compilation. | Main Maintainer |
+| [LinkedIn QR Generator](https://github.com/Suhani00796/linkedin-qr-generator) | Dynamic QR code generator for professional networking. | Seeking Collaborators |
+
+---
+
+## Core Focus & Technical Proficiencies
+
+* **Current Studies**: Deepening knowledge in Java 25 enterprise features and advanced object-oriented programming.
+* **Areas of Expertise**: Procedural programming paradigms and optimization logic using C. Feel free to open an issue or reach out for discussions regarding C programming configurations.
+* **Community Engagement**: Looking to expand my professional network, connect with engineering peers, and contribute to collaborative software development projects.
+
+---
+
+## Interpersonal & Interests
+
+* **Creative Outlets**: When away from the terminal, I analyze animation narratives and engage in painting as a method of cognitive decompression.
 
 
 
