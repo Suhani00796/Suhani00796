@@ -10,7 +10,7 @@ I am Sandali, a Software Engineering student based in India, focused on building
 | :--- | :--- | :--- |
 | [MoodStream](https://github.com/Suhani00796/MoodStream) | Core repository for streaming architecture. | Primary Developer |
 | [Music](https://github.com/Suhani00796/website) | Static media and multi-page website compilation. | Main Maintainer |
-| [Aura Platform](https://suhani00796.github.io/aura-platform/) | Core platform interface for health metrics tracking. | Primary Developer || Dynamic QR code generator for professional networking. | Seeking Collaborators |
+| [Aura Platform](https://suhani00796.github.io/aura-platform/) | Core platform interface for health metrics tracking. | Looking for contributer || Dynamic QR code generator for professional networking. | Seeking Collaborators |
 
 ---
 
